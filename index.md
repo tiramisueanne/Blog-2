@@ -1,6 +1,5 @@
 # CS103F Spring 2019:Et two, Brute? 
-
-![](image1.jpeg)
+<img src="image1.jpeg" width="800" />
 
 The different definitions of consent show the huge range of what it can mean to people. Two understandings of consent are “Consent doesn’t have to be verbal..” (Rainn) and “Consent to Sexual Activity is ...A conversation that requires consciousness and clarity.” (UT CMHC) The advantage of a conversation is that it’s clear to both parties what is acceptable. On the other hand, the majority of consent uses nonverbal cues, as it’s less awkward in context. Certain situations, such as severe power imbalances, can pressure one party into giving “consent” as a payment for avoiding or gaining consequences. This would be a violation of duty-based ethics, as the person in charge has an obligation to not reduce the victim’s personal autonomy for the powerful person’s own gain.
 

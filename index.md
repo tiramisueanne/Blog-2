@@ -14,4 +14,3 @@ Zarya: http://fortune.com/2018/01/16/consent-app-me-too/
 https://www.nytimes.com/2017/11/09/arts/television/louis-ck-sexual-misconduct.html
 Hess: https://slate.com/human-interest/2014/09/good2go-a-new-app-for-consenting-to-sex.html
 
-
